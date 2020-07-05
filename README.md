@@ -26,5 +26,6 @@ A user is prompted with Successful operation if the file is found and also the f
 
 If the user clicks the fourth option then the user is again able to see the previous menu options. The user can then close the application or continue using it.
 Third option is to close the application. The application is closed.
+
 Conclusion: The whole application is user friendly if the user enters anything which does not exist then the user is notified. The application flow is made in such a way that the user can easily navigate back to the main menu. 
 The user is prompted with appropriate messages so that the user is not confused if something goes wrong. 
