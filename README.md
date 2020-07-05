@@ -7,10 +7,10 @@ The first feature is to accept the user input to select one of the options liste
 The first option returns the current file names in ascending order. For sorting the case-sensitivity issue is solved using CASE_INSENSITIVE_ORDER so that files with lowercase are not sorted after uppercase.
 List is used as a data structure asList() method is used to return a fixed size list backed by the array. Then Collections.sort is used to sort the list which then helps in getting the sorted filenames.
 The second option includes File Manipulation like Add, Delete, Search which is shown in the user interface. If user selects second option the user is again shown with a menu which is as follows:-
-1) Add a file of your choice 
-2) Delete a file of your choice
-3) Search a file of your choice
-4) Return to the main menu
+- Add a file of your choice 
+- Delete a file of your choice
+- Search a file of your choice
+- Return to the main menu
 
 The user then selects any of the above options, if the user selects an invalid option then the user is informed to enter valid option. 
 The first option creates the file in the directory existing in the program. 
